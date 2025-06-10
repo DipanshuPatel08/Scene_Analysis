@@ -23,12 +23,3 @@ This is a web application built with **Streamlit** that allows users to upload a
 - [Python-dotenv](https://pypi.org/project/python-dotenv/) — for loading API keys
 - [Pillow (PIL)](https://python-pillow.org/) — for image handling
 
----
-
-## 📦 Installation
-
-1. **Clone this repository**
-
-```bash
-git clone https://github.com/your-username/object-detection-gemini.git
-cd object-detection-gemini
